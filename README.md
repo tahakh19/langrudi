@@ -1,0 +1,2 @@
+# langrudi
+gilaki-langrudi language
